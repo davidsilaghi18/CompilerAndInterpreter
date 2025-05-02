@@ -1,0 +1,56 @@
+{
+open FSharp.Text.Lexing
+
+let newline (lexbuf : LexBuffer<_>) =
+    lexbuf.StartPos <- lexbuf.StartPos.NextLine
+}
+
+// Regular expressions
+let whitespace = [' ' '\t']
+let newline    = ('\n' | '\r' '\n')
+let letter     = ['a'-'z' 'A'-'Z']
+let digit      = ['0'-'9']
+let int        = '-'?digit+
+let name       = letter (letter | digit)*
+
+// Rules for reading tokens
+rule tokenstream = parse
+  | whitespace { tokenstream lexbuf (* Read more characters *) }
+  | newline    { newline lexbuf;
+                 tokenstream lexbuf (* Read more characters *) }
+
+  | int        { Parser.INT(int(LexBuffer<_>.LexemeString lexbuf)) }
+
+  | "func"     { Parser.FUNC }
+  | "let"      { Parser.LET }
+  | "in"       { Parser.IN }
+  | "if"       { Parser.IF }
+  | "then"     { Parser.THEN }
+  | "else"     { Parser.ELSE }
+  | "read"     { Parser.READ }
+  | "write"    { Parser.WRITE }
+  | name       { Parser.NAME(LexBuffer<_>.LexemeString lexbuf) }
+
+  | "&&"       { Parser.ANDAND }
+  | "!="       { Parser.BANGEQ }
+  | "||"       { Parser.BARBAR }
+  | "=="       { Parser.EQEQ }
+  | ">="       { Parser.GTEQ }
+  | "<="       { Parser.LTEQ }
+  | '>'        { Parser.GT }
+  | '<'        { Parser.LT }
+  | '-'        { Parser.MINUS }
+  | '%'        { Parser.PCT }
+  | '+'        { Parser.PLUS }
+  | '/'        { Parser.SLASH }
+  | '*'        { Parser.STAR }
+
+  | '='        { Parser.EQ }
+  | '('        { Parser.LPAR }
+  | ')'        { Parser.RPAR }
+  | ','        { Parser.COMMA }
+  | ';'        { Parser.SEMICOLON }
+
+  | eof        { Parser.EOF   }
+  | _          { failwith ("ParseError" + LexBuffer<_>.LexemeString lexbuf) }
+

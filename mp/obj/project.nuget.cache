@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8GqkVzrV1o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dqdqqqqqdasd\\OneDrive - Roskilde Universitet\\Desktop\\mp\\mp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dqdqqqqqdasd\\.nuget\\packages\\fsharp.core\\9.0.201\\fsharp.core.9.0.201.nupkg.sha512",
+    "C:\\Users\\dqdqqqqqdasd\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\dqdqqqqqdasd\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512",
+    "C:\\Users\\dqdqqqqqdasd\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\dqdqqqqqdasd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\dqdqqqqqdasd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\dqdqqqqqdasd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

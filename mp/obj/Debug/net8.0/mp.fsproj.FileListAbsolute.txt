@@ -1,0 +1,90 @@
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\mp.exe
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\mp.deps.json
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\mp.runtimeconfig.json
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\mp.pdb
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\FsLexYacc.Runtime.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\mp.fsproj.AssemblyReference.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\mp.AssemblyInfoInputs.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\mp.AssemblyInfo.fs
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\mp.fsproj.CoreCompileInputs.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\mp.fsproj.Up2Date
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\refint\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\mp.pdb
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\mp.genruntimeconfig.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mini project functional programing\mp (1)\mp\obj\Debug\net8.0\ref\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\mp.exe
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\mp.deps.json
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\mp.runtimeconfig.json
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\mp.pdb
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\FsLexYacc.Runtime.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\mp.fsproj.AssemblyReference.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\mp.AssemblyInfoInputs.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\mp.AssemblyInfo.fs
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\mp.fsproj.CoreCompileInputs.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\mp.fsproj.Up2Date
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\refint\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\mp.pdb
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\mp.genruntimeconfig.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\Project functional programming Silaghi David\mp (1)\mp\obj\Debug\net8.0\ref\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\mp.exe
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\mp.deps.json
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\mp.runtimeconfig.json
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\mp.pdb
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\FsLexYacc.Runtime.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\mp.fsproj.AssemblyReference.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\mp.AssemblyInfoInputs.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\mp.AssemblyInfo.fs
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\mp.fsproj.CoreCompileInputs.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\mp.fsproj.Up2Date
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\refint\mp.dll
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\mp.pdb
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\mp.genruntimeconfig.cache
+C:\Users\dqdqqqqqdasd\OneDrive - Roskilde Universitet\Desktop\mp\obj\Debug\net8.0\ref\mp.dll
